@@ -1,0 +1,9 @@
+{
+  "light-control": {
+    "pub": "light-control",
+    "sub": "light-status"
+  },
+  "sensor-data": {
+    "sub": "sensor-data"
+  }
+}
