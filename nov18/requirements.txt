@@ -1,0 +1,8 @@
+sqlalchemy
+fastapi[all]
+asyncmy
+fastapi-mcp
+apscheduler
+aiomqtt
+dashscope
+aiohttp
